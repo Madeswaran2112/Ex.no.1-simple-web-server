@@ -130,6 +130,6 @@ public class HelloController {
 
 
 
-Output:
-
+## Output:
+ <img width="1450" height="632" alt="image" src="https://github.com/user-attachments/assets/461e971e-d4d2-4544-914e-ff465af88bfe" />
 
